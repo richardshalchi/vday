@@ -8,15 +8,10 @@ body {
     align-items: center;
   }
   
-  .heart-container h1 {
+  .container h1 {
     color: red;
     font-size: 2.5rem;
     display: block;
   }
  
-  .heart-container h2 {
-    color: red;
-    font-size: 1.5rem;
-    display: block;
-  }
  
